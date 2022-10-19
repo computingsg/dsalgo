@@ -1,2 +1,5 @@
-# dsalgo
-Data Structures &amp; Algorithms
+# Data Structures &amp; Algorithms
+
+- Check digits
+
+please add more :)
